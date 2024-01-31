@@ -5,6 +5,11 @@ Steps to run
 
 Clone the repository
 ```bash
+https://github.com/Aniketroy2003/E-commerce-rest-api---nodejs.git
+```
+
+To run the server
+```bash
 npm run dev
 ```
 
